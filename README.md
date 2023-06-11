@@ -1,6 +1,6 @@
 
 
-Hello, I’m Pranamya Rajashekhar, a pre-fianl year CSE student with great interest in web development and data science. I’m proficient in C/C++, Python, and Java.
+Hello, I’m Pranamya Rajashekhar, a pre-final year CSE student with great interest in web development and data science. I’m proficient in C/C++, Python, and Java.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
