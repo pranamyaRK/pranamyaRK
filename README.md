@@ -1,7 +1,3 @@
-
-
-Hello, I’m Pranamya Rajashekhar, a final year CSE student with great interest in web development and data science. I’m proficient in C/C++, Python, and Java.
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/pranamya-rajashekhar-3ba220232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hello" height="30" width="40" /></a>
